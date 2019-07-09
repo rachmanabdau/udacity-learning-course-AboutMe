@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Rachman Arif</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">
+        Pellentesque at nisi consequat, malesuada purus ut, tempor enim. Nullam ultricies ligula magna, at rhoncus mauris posuere ut. Duis lacinia quis dolor ac congue. Nunc in elit et felis efficitur condimentum. Mauris est felis, ornare a luctus vitae, placerat non magna. Nam imperdiet nisl ac odio accumsan, a fringilla augue mattis. Nulla pellentesque mauris vel lobortis volutpat. Nulla facilisi. Quisque tempor, massa vel efficitur fringilla, sapien neque scelerisque mi, id sollicitudin dui orci ac nibh. Proin faucibus viverra massa, sed dapibus neque mollis et. Nulla facilisi. Nam ac massa ac urna blandit maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eros elit, aliquam sit amet orci sed, volutpat maximus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+        \n\nSuspendisse nec ipsum ultrices erat dictum pharetra id at arcu. Curabitur consectetur id sem et viverra. Ut scelerisque est lorem, quis dapibus mi congue sit amet. Ut varius lorem quis arcu dictum, ac efficitur massa pulvinar. Ut posuere sollicitudin orci quis auctor. Donec hendrerit finibus lorem et sagittis. Sed hendrerit convallis erat.
+    </string>
+    <string name="what_is_your_nickname">What is yout nickname ?</string>
+    <string name="done">Done</string>
+</resources>
